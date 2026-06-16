@@ -33,6 +33,9 @@
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmlasc&layout=compact&theme=dracula)
+
+<br>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jmlasc&theme=dracula)
 
 </div>
