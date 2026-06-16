@@ -1,14 +1,14 @@
 # Hi! I'm Jude.
 
+👔 Currently seeking full-time roles in tech!
+
 🔭 I'm currently working on ragavan & CrossWithFriends
 
 🌱 I'm learning about RAG and webdev
 
 💬 Ask me about psychology + makerspaces!
 
-📫 Reach me at: jmlascano1@gmail.com
-
-📄 Get to know me here: https://www.linkedin.com/in/jmlascano/
+📫 Reach me at: jmlascano1@gmail.com / https://www.linkedin.com/in/jmlascano/
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,6 +25,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmlasc&show_icons=true&theme=dracula)
+
+<br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmlasc&layout=compact&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jmlasc&theme=dracula)
+
+</div>
