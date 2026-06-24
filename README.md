@@ -23,19 +23,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmlasc&show_icons=true&theme=dracula)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmlasc&layout=compact&theme=dracula)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jmlasc&theme=dracula)
-
-</div>
