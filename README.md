@@ -2,7 +2,7 @@
 
 👔 Currently seeking full-time roles in tech!
 
-🔭 I'm currently working on ragavan & CrossWithFriends
+🔭 I'm currently working on CrossWithFriends
 
 🌱 I'm learning about RAG and webdev
 
