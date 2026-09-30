@@ -1,14 +1,6 @@
 # Hi! I'm Jude.
 
-👔 Currently seeking full-time roles in tech!
-
-🔭 I'm currently working on CrossWithFriends
-
-🌱 I'm learning about RAG and webdev
-
-💬 Ask me about psychology + makerspaces!
-
-📫 Reach me at: jmlascano1@gmail.com / https://www.linkedin.com/in/jmlascano/
+Reach me at: https://www.linkedin.com/in/jmlascano/
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
